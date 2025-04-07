@@ -1,7 +1,7 @@
 # Michael Condon
 
 ## Summary
-With 24 years of experience in technical support, I excel in customer-first roles. My expertise in TCP/IP, AAA/802.1x, routing, and switching, combined with excellent communication skills, enables me to effectively resolve complex issues and build trusted customer relationships.
+With 24 years of experience in technical support, I excel in customer first roles. My expertise in TCP/IP, AAA/802.1x, routing, and switching, combined with excellent communication skills, enables me to effectively resolve complex issues and build trusted customer relationships.
 
 ## Skills
 - TCP/IP Routing and Switching
